@@ -1,0 +1,10 @@
+org.eclipse.dataset
+org.eclipse.dataset.coords
+org.eclipse.dataset.function
+org.eclipse.dataset.internal.utils
+org.eclipse.dataset.io
+org.eclipse.dataset.metadata
+org.eclipse.dataset.roi
+org.eclipse.dataset.roi.handler
+org.eclipse.dataset.roi.json
+org.eclipse.dataset.slicer
